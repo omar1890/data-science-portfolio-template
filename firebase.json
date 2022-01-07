@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/data-science-portfolio-template",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
